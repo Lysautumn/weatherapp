@@ -1,2 +1,3 @@
-weatherapp
-Weather App created for Skillcrush final project
+# weatherapp
+
+This weather app was created for Skillcrush's final project. It was created using Ruby.
